@@ -1,0 +1,17 @@
+
+body{
+    font-weight: bold;
+}
+
+.test{
+    border: 1px 10px 5px 20px solid black;
+
+}
+
+
+
+
+
+* {
+    text-decoration: underline;
+}
