@@ -1,0 +1,6 @@
+milk,300
+sugar,100
+rice,400
+potatoes,120
+ketchup,110
+burger,150
